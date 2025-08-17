@@ -1,4 +1,4 @@
-menu = """
+MENU = """
 
 [d] Depositar
 [s] Sacar
@@ -15,7 +15,7 @@ LIMITE_SAQUES = 3
 
 while True:
 
-    opcao = input(menu)
+    opcao = input(MENU)
 
     if opcao == "d":
         valor = float(input("Informe o valor do depósito: "))
