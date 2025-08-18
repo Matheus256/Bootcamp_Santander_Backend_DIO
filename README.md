@@ -1,4 +1,4 @@
-# Bootcamp Santander 2025 - Back-End com Python DIO
+# Bootcamp Santander Back-End com Python DIO
 
 Repositório criado para guardar os códigos das práticas desenvolvidas ao longo do Bootcamp Santander 2025 - Back-End com Python da DIO.
 A medida que os módulos forem sendo cumpridos este README será atualizado, ademais visualizo que cada módulo terá um diretório corresponde neste repositório. Segue um checklist dos módulos
@@ -24,31 +24,31 @@ A medida que os módulos forem sendo cumpridos este README será atualizado, ade
     - [x] Explorando Conjuntos em Python
     - [x] Aprendendo a Utilizar Dicionários em Python
     - [x] Aplicando Estruturas de Dados e Listas
-- [] Trabalhando com Funções em Python
+- [ ] Trabalhando com Funções em Python
     - [x] Dominando Funções em Python
-    - [] Otimizando o Sistema Bancário com Funções Python
-    - [] Praticando Funções em Python
-- [] Orientação a Objetos e Boas Práticas em Python
-    - [] Introdução à Programação Orientada a Objetos (POO) em Python
-    - [] Aprendendo o Conceito de Herança com Python
-    - [] Aplicando Encapsulamento em Python
-    - [] Conhecendo Polimorfismo em Python
-    - [] Interfaces e Classes Abstratas com Python
-    - [] Modelando o Sistema Bancário em POO com Python
-    - [] Orientação a Objetos e Padrões de Código
-- [] Trabalhando com Pacotes Pythons
-    - [] Decoradores, Iteradores e Geradores com Python
-    - [] Lidando com Data, Hora e Fuso Horário no Python
-    - [] Manipulando Arquivos em Python
-    - [] Gerenciamento de Pacotes, Convenções e Boas Práticas Python
-    - [] Praticando Desenvolvimento em Python
-- [] Integração Python com Banco de Dados
-    - [] Introdução Banco de Dados
-    - [] Introdução a Banco de Dados Relacionais (SQL)
-    - [] Introdução ao MongoDB e Banco de Dados NoSQL
-    - [] Explorando Banco de Dados Relacionais com Python DB API
-- [] Desenvolvimento Orientado a Testes com Python
-    - [] Introdução a Aplicações Rest
-    - [] Desenvolvendo sua Primeira API com FastAPI, Python e Docker
-    - [] Criando Uma API Com FastAPI Utilizando TDD
-    - [] Avalie este Bootcamp 2025
+    - [ ] Otimizando o Sistema Bancário com Funções Python
+    - [ ] Praticando Funções em Python
+- [ ] Orientação a Objetos e Boas Práticas em Python
+    - [ ] Introdução à Programação Orientada a Objetos (POO) em Python
+    - [ ] Aprendendo o Conceito de Herança com Python
+    - [ ] Aplicando Encapsulamento em Python
+    - [ ] Conhecendo Polimorfismo em Python
+    - [ ] Interfaces e Classes Abstratas com Python
+    - [ ] Modelando o Sistema Bancário em POO com Python
+    - [ ] Orientação a Objetos e Padrões de Código
+- [ ] Trabalhando com Pacotes Pythons
+    - [ ] Decoradores, Iteradores e Geradores com Python
+    - [ ] Lidando com Data, Hora e Fuso Horário no Python
+    - [ ] Manipulando Arquivos em Python
+    - [ ] Gerenciamento de Pacotes, Convenções e Boas Práticas Python
+    - [ ] Praticando Desenvolvimento em Python
+- [ ] Integração Python com Banco de Dados
+    - [ ] Introdução Banco de Dados
+    - [ ] Introdução a Banco de Dados Relacionais (SQL)
+    - [ ] Introdução ao MongoDB e Banco de Dados NoSQL
+    - [ ] Explorando Banco de Dados Relacionais com Python DB API
+- [ ] Desenvolvimento Orientado a Testes com Python
+    - [ ] Introdução a Aplicações Rest
+    - [ ] Desenvolvendo sua Primeira API com FastAPI, Python e Docker
+    - [ ] Criando Uma API Com FastAPI Utilizando TDD
+    - [ ] Avalie este Bootcamp 2025
