@@ -1,0 +1,54 @@
+# Bootcamp Santander 2025 - Back-End com Python DIO
+
+Repositório criado para guardar os códigos das práticas desenvolvidas ao longo do Bootcamp Santander 2025 - Back-End com Python da DIO.
+A medida que os módulos forem sendo cumpridos este README será atualizado, ademais visualizo que cada módulo terá um diretório corresponde neste repositório. Segue um checklist dos módulos
+
+- [x] Módulo I - Princípios de Desenvolvimento de Aplicações Python
+	- [x] Introdução à Experiência Santander 2025
+	- [x] Ambiente de Desenvolvimento e Primeiros Passos com Python
+	- [x] Conhecendo a Linguagem de Programação Python
+	- [x] Versionamento de Códigos com Git e GitHub
+	- [x] Desafio de Projetos: Crie Um Portfólio Vencedor
+	- [x] Contribuindo em um Projeto Open Source no GitHub
+	- [x] Live de Lançamento: Santander Bootcamp 2025
+- [x] Módulo II - Operadores e Manipulação de String com Python
+    - [x] Tipos de Operadores com Python
+    - [x] Estruturas Condicionais e de Repetição em Python
+    - [x] Manipulando Strings com Python
+    - [x] Criando um Sistema Bancário com Python
+    - [x] Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
+    - [x] Explorando Operadores e Manipulação de Strings
+- [x] Estruturas de Dados e Listas com Python
+    - [x] Trabalhando com Listas em Python
+    - [x] Conhecendo Tuplas em Python
+    - [x] Explorando Conjuntos em Python
+    - [x] Aprendendo a Utilizar Dicionários em Python
+    - [x] Aplicando Estruturas de Dados e Listas
+- [] Trabalhando com Funções em Python
+    - [x] Dominando Funções em Python
+    - [] Otimizando o Sistema Bancário com Funções Python
+    - [] Praticando Funções em Python
+- [] Orientação a Objetos e Boas Práticas em Python
+    - [] Introdução à Programação Orientada a Objetos (POO) em Python
+    - [] Aprendendo o Conceito de Herança com Python
+    - [] Aplicando Encapsulamento em Python
+    - [] Conhecendo Polimorfismo em Python
+    - [] Interfaces e Classes Abstratas com Python
+    - [] Modelando o Sistema Bancário em POO com Python
+    - [] Orientação a Objetos e Padrões de Código
+- [] Trabalhando com Pacotes Pythons
+    - [] Decoradores, Iteradores e Geradores com Python
+    - [] Lidando com Data, Hora e Fuso Horário no Python
+    - [] Manipulando Arquivos em Python
+    - [] Gerenciamento de Pacotes, Convenções e Boas Práticas Python
+    - [] Praticando Desenvolvimento em Python
+- [] Integração Python com Banco de Dados
+    - [] Introdução Banco de Dados
+    - [] Introdução a Banco de Dados Relacionais (SQL)
+    - [] Introdução ao MongoDB e Banco de Dados NoSQL
+    - [] Explorando Banco de Dados Relacionais com Python DB API
+- [] Desenvolvimento Orientado a Testes com Python
+    - [] Introdução a Aplicações Rest
+    - [] Desenvolvendo sua Primeira API com FastAPI, Python e Docker
+    - [] Criando Uma API Com FastAPI Utilizando TDD
+    - [] Avalie este Bootcamp 2025
