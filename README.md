@@ -1,4 +1,4 @@
-# Bootcamp Santander Back-End com Python DIO
+# Bootcamp Santander Back-End com Python
 
 Repositório criado para guardar os códigos das práticas desenvolvidas ao longo do Bootcamp Santander 2025 - Back-End com Python da DIO.
 A medida que os módulos forem sendo cumpridos este README será atualizado, ademais visualizo que cada módulo terá um diretório corresponde neste repositório. Segue um checklist dos módulos
@@ -24,10 +24,10 @@ A medida que os módulos forem sendo cumpridos este README será atualizado, ade
     - [x] Explorando Conjuntos em Python
     - [x] Aprendendo a Utilizar Dicionários em Python
     - [x] Aplicando Estruturas de Dados e Listas
-- [ ] Trabalhando com Funções em Python
+- [x] Trabalhando com Funções em Python
     - [x] Dominando Funções em Python
-    - [ ] Otimizando o Sistema Bancário com Funções Python
-    - [ ] Praticando Funções em Python
+    - [x] Otimizando o Sistema Bancário com Funções Python
+    - [x] Praticando Funções em Python
 - [ ] Orientação a Objetos e Boas Práticas em Python
     - [ ] Introdução à Programação Orientada a Objetos (POO) em Python
     - [ ] Aprendendo o Conceito de Herança com Python
