@@ -28,14 +28,14 @@ A medida que os módulos forem sendo cumpridos este README será atualizado, ade
     - [x] Dominando Funções em Python
     - [x] Otimizando o Sistema Bancário com Funções Python
     - [x] Praticando Funções em Python
-- [ ] Orientação a Objetos e Boas Práticas em Python
-    - [ ] Introdução à Programação Orientada a Objetos (POO) em Python
-    - [ ] Aprendendo o Conceito de Herança com Python
-    - [ ] Aplicando Encapsulamento em Python
-    - [ ] Conhecendo Polimorfismo em Python
-    - [ ] Interfaces e Classes Abstratas com Python
-    - [ ] Modelando o Sistema Bancário em POO com Python
-    - [ ] Orientação a Objetos e Padrões de Código
+- [x] Orientação a Objetos e Boas Práticas em Python
+    - [x] Introdução à Programação Orientada a Objetos (POO) em Python
+    - [x] Aprendendo o Conceito de Herança com Python
+    - [x] Aplicando Encapsulamento em Python
+    - [x] Conhecendo Polimorfismo em Python
+    - [x] Interfaces e Classes Abstratas com Python
+    - [x] Modelando o Sistema Bancário em POO com Python
+    - [x] Orientação a Objetos e Padrões de Código
 - [ ] Trabalhando com Pacotes Pythons
     - [ ] Decoradores, Iteradores e Geradores com Python
     - [ ] Lidando com Data, Hora e Fuso Horário no Python
