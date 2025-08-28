@@ -36,12 +36,12 @@ A medida que os módulos forem sendo cumpridos este README será atualizado, ade
     - [x] Interfaces e Classes Abstratas com Python
     - [x] Modelando o Sistema Bancário em POO com Python
     - [x] Orientação a Objetos e Padrões de Código
-- [ ] Trabalhando com Pacotes Pythons
-    - [ ] Decoradores, Iteradores e Geradores com Python
-    - [ ] Lidando com Data, Hora e Fuso Horário no Python
-    - [ ] Manipulando Arquivos em Python
-    - [ ] Gerenciamento de Pacotes, Convenções e Boas Práticas Python
-    - [ ] Praticando Desenvolvimento em Python
+- [] Trabalhando com Pacotes Pythons
+    - [x] Decoradores, Iteradores e Geradores com Python
+    - [x] Lidando com Data, Hora e Fuso Horário no Python
+    - [x] Manipulando Arquivos em Python
+    - [x] Gerenciamento de Pacotes, Convenções e Boas Práticas Python
+    - [] Praticando Desenvolvimento em Python
 - [ ] Integração Python com Banco de Dados
     - [ ] Introdução Banco de Dados
     - [ ] Introdução a Banco de Dados Relacionais (SQL)
