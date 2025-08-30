@@ -36,17 +36,17 @@ A medida que os módulos forem sendo cumpridos este README será atualizado, ade
     - [x] Interfaces e Classes Abstratas com Python
     - [x] Modelando o Sistema Bancário em POO com Python
     - [x] Orientação a Objetos e Padrões de Código
-- [] Trabalhando com Pacotes Pythons
+- [x] Trabalhando com Pacotes Pythons
     - [x] Decoradores, Iteradores e Geradores com Python
     - [x] Lidando com Data, Hora e Fuso Horário no Python
     - [x] Manipulando Arquivos em Python
     - [x] Gerenciamento de Pacotes, Convenções e Boas Práticas Python
-    - [] Praticando Desenvolvimento em Python
-- [ ] Integração Python com Banco de Dados
-    - [ ] Introdução Banco de Dados
-    - [ ] Introdução a Banco de Dados Relacionais (SQL)
-    - [ ] Introdução ao MongoDB e Banco de Dados NoSQL
-    - [ ] Explorando Banco de Dados Relacionais com Python DB API
+    - [x] Praticando Desenvolvimento em Python
+- [x] Integração Python com Banco de Dados
+    - [x] Introdução Banco de Dados
+    - [x] Introdução a Banco de Dados Relacionais (SQL)
+    - [x] Introdução ao MongoDB e Banco de Dados NoSQL
+    - [x] Explorando Banco de Dados Relacionais com Python DB API
 - [ ] Desenvolvimento Orientado a Testes com Python
     - [ ] Introdução a Aplicações Rest
     - [ ] Desenvolvendo sua Primeira API com FastAPI, Python e Docker
