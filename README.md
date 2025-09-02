@@ -1,7 +1,16 @@
-# Bootcamp Santander Back-End com Python
+# 🚀 Bootcamp Santander Back-End com Python
 
-Repositório criado para guardar os códigos das práticas desenvolvidas ao longo do Bootcamp Santander 2025 - Back-End com Python da DIO.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-FF6F00?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+Repositório criado para guardar os códigos das práticas desenvolvidas ao longo do Bootcamp Santander 2025 - Back-End com Python da DIO.  
 A medida que os módulos forem sendo cumpridos este README será atualizado, ademais visualizo que cada módulo terá um diretório corresponde neste repositório. Segue um checklist dos módulos
+
+## ✅ Checklist das Metas
 
 - [x] Módulo I - Princípios de Desenvolvimento de Aplicações Python
 	- [x] Introdução à Experiência Santander 2025
@@ -47,8 +56,14 @@ A medida que os módulos forem sendo cumpridos este README será atualizado, ade
     - [x] Introdução a Banco de Dados Relacionais (SQL)
     - [x] Introdução ao MongoDB e Banco de Dados NoSQL
     - [x] Explorando Banco de Dados Relacionais com Python DB API
-- [ ] Desenvolvimento Orientado a Testes com Python
-    - [ ] Introdução a Aplicações Rest
-    - [ ] Desenvolvendo sua Primeira API com FastAPI, Python e Docker
-    - [ ] Criando Uma API Com FastAPI Utilizando TDD
-    - [ ] Avalie este Bootcamp 2025
+- [x] Desenvolvimento Orientado a Testes com Python
+    - [x] Introdução a Aplicações Rest
+    - [x] Desenvolvendo sua Primeira API com FastAPI, Python e Docker
+    - [x] Criando Uma API Com FastAPI Utilizando TDD
+    - [x] Avalie este Bootcamp 2025
+
+## 🤝 Agradecimentos
+
+Me sinto muito contente por poder participar do Bootcamp e ter aprendido mais sobre Python (apesar de ser uma  linguagem comum no meu dia a dia há dois anos).  
+Mas que isso, os pontos de destaque para mim foram a integração de Python com Banco de Dados e aprender a usar o FastAPI para desenvolver APIs de maneira simples e rápida.  
+Definitivamente, este Bootcamp ampliou meus conhecimentos e amentou minha experiência profissional em desenvolvimento.
